@@ -46,4 +46,6 @@ Captcha added and commited the changes (git commit -m "Added CAPTCHA feature")
 
 ![main-merge](main-merge.png)
 
-## Pushing my updates to the remote repository (git push origin main)
+## Pushing my updates to the remote repository (git push)
+
+![push-remote-new](push-remote-new.png)
