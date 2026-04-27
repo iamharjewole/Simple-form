@@ -6,11 +6,11 @@ Using Git to create a simple HTML form to track the progress, keep history of ch
 
 ![simple-form-repo](Simple-form-repo.png)
 
-## Clone the repository from Github to my local machine with this command, git clone git@github.com:iamharjewole/Simple-form.git
+## Clone the repository from Github to my local machine with this command, git clone [git@github.com:iamharjewole/Simple-form.git](https://github.com/iamharjewole/Simple-form.git)
 
 ![repo-clone](Repo-clone.png)
 
-## Created Form.html and style.css files and keep them in the simple-form folder.
+## Created Form.html and style.css files and keep them in the simple-form folder
 
 ![folder-files](Folder-files.png)
 
@@ -46,5 +46,4 @@ Captcha added and commited the changes (git commit -m "Added CAPTCHA feature")
 
 ![main-merge](main-merge.png)
 
-Pushing my updates to the remote repository (git push origin main)
-
+## Pushing my updates to the remote repository (git push origin main)
